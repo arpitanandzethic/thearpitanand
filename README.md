@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arpit Anand</h1>
+
 <h3 align="center">A passionate Full -Stack Developer from India</h3>
+
+<p align="center">
+  <img src="./assets/me.gif" width=350 height=300>
+  <img src="./assets/new.gif" height=300/>
+</p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thearpitanand&label=Profile%20views&color=0e75b6&style=flat" alt="thearpitanand" /> </p> -->
 
@@ -26,4 +32,4 @@
 |--|--|
 | ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thearpitanand)|  |
 
-[![Arpit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thearpitanand&theme=xcode)](https://git.io/thearpitanand)
+<!-- [![Arpit's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=thearpitanand&theme=xcode)](https://git.io/thearpitanand) -->
