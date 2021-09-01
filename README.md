@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit Anand</h1>
 
-<h3 align="center">A passionate Full -Stack Developer from India</h3>
+<h3 align="center">A passionate Full - Stack Developer from India</h3>
 
 <p align="center">
   <img src="./assets/me.gif" width=350 height=300>
